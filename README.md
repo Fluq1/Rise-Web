@@ -15,6 +15,7 @@ Este é um website desenvolvido como projeto acadêmico utilizando ReactJS. O ob
 - [ReactJS](https://reactjs.org/)
 - [Framer Motion](https://www.framer.com/motion/) (animações)
 - [React Router](https://reactrouter.com/) (navegação)
+- [Firebase](https://firebase.google.com)) (Banco)
 - CSS Modules
 
 ## 🎨 Como Executar o Projeto
