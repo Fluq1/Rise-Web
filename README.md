@@ -20,7 +20,7 @@ Este é um website desenvolvido como projeto acadêmico utilizando ReactJS. O ob
 ## 🎨 Como Executar o Projeto
 
 1. **Clone o repositório:**
-   git clone https://github.com/seu-usuario/rise-web.git
+   git clone (https://github.com/Fluq1/Rise-Web)
 2. **Acesse a pasta do projeto:**
    cd rise-web
 3. **Instale as dependências**
